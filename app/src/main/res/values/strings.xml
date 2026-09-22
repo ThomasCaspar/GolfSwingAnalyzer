@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GolfSwingAnalyzer</string>
+    <string name="mode_behind">Vue de derrière</string>
+    <string name="mode_front">Vue de face</string>
+    <string name="start_recording">Démarrer</string>
+    <string name="stop_recording">Arrêter</string>
+    <string name="permission_required">Autorisation caméra requise</string>
+</resources>
